@@ -1,4 +1,4 @@
-* **Project:** A basic 2D simulation demonstrating artificial evolution using a genetic algorithm.
+### **Project:** A basic 2D simulation demonstrating artificial evolution using a genetic algorithm.
 * **Entities:** Simple "agents" or "critters".
 * **Environment:** A bounded 2D space (e.g., a square grid or continuous area) containing resources (e.g., "food") and possibly obstacles or hazards.
 * **Agent Behavior:** Agents can perceive their immediate surroundings (e.g., nearby food, walls), move, consume resources, and expend energy. Their actions are determined by a simple AI controller (like a neural network).
